@@ -33,6 +33,9 @@ export default function Home({ allPostsData }) {
         </p>
       </section>
 
+      <section className={`${utilStyles.headingMd} ${utilStyles.borderCircle} ${utilStyles.darkLight}`}>
+        <h2 className={utilStyles.headingMd}> Hiya </h2>
+      </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
